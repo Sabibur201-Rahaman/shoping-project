@@ -1,5 +1,5 @@
 // selector
-
+// console.log('connected')
 //IIFE immediately invoked function expression
 // (() => {
 const filterInputElm = document.querySelector("#filter");
